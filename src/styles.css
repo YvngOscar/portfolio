@@ -188,6 +188,10 @@ a{
     flex-wrap: wrap;
   }
 
+  .sub-section{
+    flex-direction: column-reverse;
+  }
+
   .hamburger{
   display: block;
   border: 0;
