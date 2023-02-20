@@ -113,7 +113,7 @@ p{
 .sub-section{
   display: flex;
   justify-content: space-around;
-  padding: 80px;
+  padding: 40px;
 }
 
 .sub-section-alternative{
